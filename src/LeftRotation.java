@@ -35,6 +35,7 @@ public class LeftRotation {
 
         for (int i=0;i<numberOfElements;i++)
             System.out.print(array[i]+" ");
+
     }
 
 }
