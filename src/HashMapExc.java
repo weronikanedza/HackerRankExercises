@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class HashTable {
+public class HashMapExc {
     static void solve(int[] arr, int money) {
         HashMap<Integer,Integer> arrMap=new HashMap<>();
 
